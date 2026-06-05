@@ -1,0 +1,174 @@
+[[Fparser]]
+arch = "aarch64"
+git-tree-sha1 = "1b04d20cb14ccbbfe5160e6802c56ce825a7dd91"
+os = "macos"
+
+    [[Fparser.download]]
+    sha256 = "39fe8df375fb0dda43dbede4de71a44a0a0386bb861753575cdd90616921f1a7"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.aarch64-apple-darwin.tar.gz"
+[[Fparser]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73a5c33ea07a9e6c1a7b41b802859567c5406f41"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "1cde90b3436335b0b7abd9ae89c66fdf6c72d37e17ce994095ac3e222750e7ce"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[Fparser]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "32410e6a177f675f0b7de28e8517e31726b7df90"
+libc = "musl"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "3f594dfef2a4d3bb3f0cb64a8db01ba78e1c711c4fc74ba7c37ca06855e7f7a2"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.aarch64-linux-musl-cxx11.tar.gz"
+[[Fparser]]
+arch = "aarch64"
+git-tree-sha1 = "a674109f0fdc515dbb95371c4e323195b6eb8e5e"
+os = "freebsd"
+
+    [[Fparser.download]]
+    sha256 = "fd1b9b3418b0aeb32fa25b27ffd98196ce1367a1393de3a5a59765d59fba4b5a"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.aarch64-unknown-freebsd.tar.gz"
+[[Fparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c4b6f763cb2195daa04b62e86c919023e6b14ad"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "daa401a1e48154e6404535acf4c2086a6e6fd1f4b650e96f46ebaa3e82b40c96"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Fparser]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdd53c0476b3786e2f6530c9deaf16c7597b5576"
+libc = "musl"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "4a1caaf723ef2bb85234b595f3dae8bd9edd1a74d2cea8217a275288480fbff4"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Fparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "004f4faea38a198cfcd192bb024e023659b3bed8"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "c3b43b741c65d37ef2fe72a7e015acfc6e1822c0d3692c52aa55efb4628a568c"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Fparser]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "253550d658d6ec6673477a75eb5950e423aa4431"
+libc = "musl"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "a0c0b1cec2a1ca95d33082e6859e8c0a2cf1499e75f39b98e4146ad3e0c37e9e"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Fparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0056ffcce55778c7c1266ae27c1cd3a81648459"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "8323179bd105aaa6ba2faf5cfb8f206edd87a2dce981a2094381dc9027369c02"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.i686-linux-gnu-cxx11.tar.gz"
+[[Fparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f446da4155f369f402a0e63a165fd5f859ff274c"
+libc = "musl"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "0683534d250d63c2bc9741b2bd472e5256ffacdcbaa37d2d4381a6d17d7c2712"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.i686-linux-musl-cxx11.tar.gz"
+[[Fparser]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86402f934563bd541aed9fef2f49f9b43d2e43ec"
+os = "windows"
+
+    [[Fparser.download]]
+    sha256 = "f28e264fdbf459d5f4b12c513d119bd41e2c020d47634129364c9768ffef7f14"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Fparser]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be37791f57626760ece328f2187838e396025c92"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "aea14bf6938c3d0b32d9407d5e0ec954ed8a39d1bf73be66209ed87f7c0e93d0"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Fparser]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a3aa5692f7570288599e88567a93434384723e7"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "d0854895479ecd883f9dd0a614c5c872ed1043316b928fd70a8f8dd4a8e3eaf6"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[Fparser]]
+arch = "x86_64"
+git-tree-sha1 = "34b03492d2866e638104427f39126f6bdd669f1a"
+os = "macos"
+
+    [[Fparser.download]]
+    sha256 = "adbc8eb011a3debd31dfccac17fe83ffd1e4839e5052e9879899024aed1cde69"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.x86_64-apple-darwin.tar.gz"
+[[Fparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4269f9cf7667f43aac66ff7060e9b3f7597bf9d6"
+libc = "glibc"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "58e390134df4ed358497a57c79a359428c5a64d875a55d49ac881a5ed6987338"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Fparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34c49f7162caf9467f561f2463e325662a299be9"
+libc = "musl"
+os = "linux"
+
+    [[Fparser.download]]
+    sha256 = "83f1d62e05899c9c44c8e47689331d1b8e603dc926c82da18d6a3e60f01375f5"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Fparser]]
+arch = "x86_64"
+git-tree-sha1 = "2a18c952efaaf9a94c0c073811753d3ded425520"
+os = "freebsd"
+
+    [[Fparser.download]]
+    sha256 = "9751e11bb069bae3d485137402c7a21454d9a3fa7580725b18cd9bb2e431ea19"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.x86_64-unknown-freebsd.tar.gz"
+[[Fparser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b233bc62e12cb341947e5cf008019a2d5767186f"
+os = "windows"
+
+    [[Fparser.download]]
+    sha256 = "810dd5aeef91a5364814fb8ec59c3952bb3d7750b341457a8058737f6fc1ae98"
+    url = "https://github.com/JuliaBinaryWrappers/Fparser_jll.jl/releases/download/Fparser-v4.5.1+0/Fparser.v4.5.1.x86_64-w64-mingw32-cxx11.tar.gz"
